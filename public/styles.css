@@ -26,3 +26,12 @@ h1{
     box-sizing:content-box ;
     overflow: hidden;
 }
+#response{
+    background-color: green;
+    justify-content: flex-start;
+
+}
+#request{
+    background-color: blue;
+    justify-content: flex-start;
+}
