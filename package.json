@@ -1,0 +1,18 @@
+{
+  "name": "juma_bot",
+  "version": "1.0.0",
+  "description": "simple deepseek bot model",
+  "license": "ISC",
+  "author": "Tevin,Njoro,Juma & Thomas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js "
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "openai": "^4.80.1"
+  }
+}

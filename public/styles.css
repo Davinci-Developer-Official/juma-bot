@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    
+}
+
+#chats{
+    width: 80%;
+    margin-left: 10%;
+    height: 350px;
+    background-color: aqua;
+    overflow-y: auto;
+}
+#search-bar{
+    width: 80%;
+    margin-left: 10%;
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1px;
+    margin-top: 4px;
+}
+#query{
+    width: 100%;
+    height: fit-content;
+    overflow-y: auto;
+    box-sizing:content-box ;
+    overflow: hidden;
+}

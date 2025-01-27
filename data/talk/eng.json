@@ -1,0 +1,13 @@
+[
+        {
+            "id":1,
+            "type":"Hi",
+            "response": "Hi too welcome to juma customer care bot, How can i be of assistance"
+            
+        },
+        {
+            "id":2,
+            "type":"Hello",
+            "response":"Hello welcome to juma customer care bot, How can i be of assistance"
+        }
+    ]
