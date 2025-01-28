@@ -29,9 +29,20 @@ h1{
 #response{
     background-color: green;
     justify-content: flex-start;
-
+    padding: 2px;
+    width: fit-content;
+    border-radius: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
 }
 #request{
     background-color: blue;
     justify-content: flex-start;
+    padding: 2px;
+    width: fit-content;
+    border-radius: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
 }

@@ -9,5 +9,10 @@
             "id":2,
             "type":"Hello",
             "response":"Hello welcome to juma customer care bot, How can i be of assistance"
+        },
+        {
+            "id":3,
+            "type":"Habari",
+            "response":"Habari yako karibu kwenye mtandao wetu wa Juma bo city hall hudama za mnunuzi "
         }
     ]
